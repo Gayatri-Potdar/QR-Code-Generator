@@ -18,7 +18,7 @@ Passout Year
 
 Preview the generated QR code inside the application.
 
-Save QR codes automatically into a QRCodes/ folder with filenames as CollegeID_Name.png.
+Save QR codes automatically.
 
 Scan QR codes directly from images using OpenCV, displaying all encoded information.
 
